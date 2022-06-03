@@ -1,89 +1,45 @@
 {
   "projetos": [
     {
-      "id": 2,
-      "nome": "Cursos Alura"
+      "nome": "Backend",
+      "id": 1
     },
     {
-      "id": 3,
-      "nome": "Vue 3"
+      "nome": "Frontend",
+      "id": 2
     },
     {
-      "id": 4,
-      "nome": "Novo teste"
-    },
-    {
-      "nome": "TypeScript",
-      "id": 5
-    },
-    {
-      "id": 6,
-      "nome": "Mais um projeto"
+      "nome": "Database",
+      "id": 3
     }
   ],
   "tarefas": [
     {
-      "duracaoEmSegundos": 2,
-      "descricao": "primeira task",
+      "duracaoEmSegundos": 4239,
+      "descricao": "Estudo de Nest.Js",
       "projeto": {
-        "id": 2,
-        "nome": "Cursos Alura"
+        "nome": "Backend",
+        "id": 1
       },
       "id": 1
     },
     {
-      "duracaoEmSegundos": 3,
-      "descricao": "segunda task",
+      "duracaoEmSegundos": 3269,
+      "descricao": "Estudo de Vue.Js",
       "projeto": {
-        "id": 3,
-        "nome": "Vue 3"
+        "nome": "Frontend",
+        "id": 2
       },
       "id": 2
     },
     {
-      "duracaoEmSegundos": 2,
-      "descricao": "terceira task",
+      "duracaoEmSegundos": 3768,
+      "descricao": "Estudo de PostgreSQL",
       "projeto": {
-        "id": 4,
-        "nome": "Novo teste"
+        "nome": "Database",
+        "id": 3
       },
       "id": 3
-    },
-    {
-      "duracaoEmSegundos": 5,
-      "descricao": "Quarta Task",
-      "projeto": {
-        "nome": "TypeScript",
-        "id": 5
-      },
-      "id": 4
-    },
-    {
-      "duracaoEmSegundos": 3,
-      "descricao": "Quinta task",
-      "projeto": {
-        "id": 4,
-        "nome": "Novo teste"
-      },
-      "id": 5
-    },
-    {
-      "duracaoEmSegundos": 2,
-      "descricao": "Sexta Task",
-      "projeto": {
-        "id": 7,
-        "nome": "Novo Projetinho"
-      },
-      "id": 6
-    },
-    {
-      "duracaoEmSegundos": 1,
-      "descricao": "Sétima Task",
-      "projeto": {
-        "id": 3,
-        "nome": "Vue 3"
-      },
-      "id": 9
     }
   ]
 }
