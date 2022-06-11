@@ -1,45 +1,72 @@
 {
   "projetos": [
-    {
-      "nome": "Backend",
-      "id": 1
-    },
-    {
-      "nome": "Frontend",
-      "id": 2
-    },
-    {
-      "nome": "Database",
-      "id": 3
-    }
+      {
+          "nome": "Backend",
+          "id": 1
+      },
+      {
+          "nome": "Frontend",
+          "id": 2
+      },
+      {
+          "nome": "Database",
+          "id": 3
+      },
+      {
+          "nome": "Fullstack",
+          "id": 4
+      }
   ],
   "tarefas": [
-    {
-      "duracaoEmSegundos": 4239,
-      "descricao": "Estudo de Nest.Js",
-      "projeto": {
-        "nome": "Backend",
-        "id": 1
+      {
+          "duracaoEmSegundos": 2,
+          "descricao": "Estudo de Nest.Js",
+          "projeto": {
+              "nome": "Backend",
+              "id": 1
+          },
+          "date": "10/06/2022",
+          "id": 1
       },
-      "id": 1
-    },
-    {
-      "duracaoEmSegundos": 3269,
-      "descricao": "Estudo de Vue.Js",
-      "projeto": {
-        "nome": "Frontend",
-        "id": 2
+      {
+          "duracaoEmSegundos": 1,
+          "descricao": "Estudo de Vue.Js",
+          "projeto": {
+              "nome": "Frontend",
+              "id": 2
+          },
+          "date": "10/06/2022",
+          "id": 2
       },
-      "id": 2
-    },
-    {
-      "duracaoEmSegundos": 3768,
-      "descricao": "Estudo de PostgreSQL",
-      "projeto": {
-        "nome": "Database",
-        "id": 3
+      {
+          "duracaoEmSegundos": 1,
+          "descricao": "Estudo de PostgreSQL",
+          "projeto": {
+              "nome": "Database",
+              "id": 3
+          },
+          "date": "10/06/2022",
+          "id": 3
       },
-      "id": 3
-    }
+      {
+          "duracaoEmSegundos": 2,
+          "descricao": "Estudo de Express",
+          "projeto": {
+              "nome": "Backend",
+              "id": 1
+          },
+          "date": "10/06/2022",
+          "id": 4
+      },
+      {
+          "duracaoEmSegundos": 3,
+          "descricao": "Estudo de TypeScript",
+          "projeto": {
+              "nome": "Fullstack",
+              "id": 4
+          },
+          "date": "10/06/2022",
+          "id": 5
+      }
   ]
 }
