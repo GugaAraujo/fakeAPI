@@ -19,47 +19,47 @@
   ],
   "tarefas": [
       {
-          "duracaoEmSegundos": 2,
+          "duracaoEmSegundos": 652,
           "descricao": "Estudo de Nest.Js",
           "projeto": {
               "nome": "Backend",
               "id": 1
           },
-          "date": "10/06/2022",
+          "date": "08/06/2022",
           "id": 1
       },
       {
-          "duracaoEmSegundos": 1,
+          "duracaoEmSegundos": 471,
           "descricao": "Estudo de Vue.Js",
           "projeto": {
               "nome": "Frontend",
               "id": 2
           },
-          "date": "10/06/2022",
+          "date": "08/06/2022",
           "id": 2
       },
       {
-          "duracaoEmSegundos": 1,
+          "duracaoEmSegundos": 547,
           "descricao": "Estudo de PostgreSQL",
           "projeto": {
               "nome": "Database",
               "id": 3
           },
-          "date": "10/06/2022",
+          "date": "09/06/2022",
           "id": 3
       },
       {
-          "duracaoEmSegundos": 2,
+          "duracaoEmSegundos": 382,
           "descricao": "Estudo de Express",
           "projeto": {
               "nome": "Backend",
               "id": 1
           },
-          "date": "10/06/2022",
+          "date": "09/06/2022",
           "id": 4
       },
       {
-          "duracaoEmSegundos": 3,
+          "duracaoEmSegundos": 689,
           "descricao": "Estudo de TypeScript",
           "projeto": {
               "nome": "Fullstack",
